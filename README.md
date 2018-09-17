@@ -1,6 +1,4 @@
-**Learning Basic JS:**
-
-Hangman Example in Processing.js/ Dalton (IMD 16/17 HDA)
+**Learning Basic JS: Hangman Example in Processing.js/ Dalton (Course @ IMD 16/17 HDA)**
 
 (IDE derived from https://www.khanacademy.org/computing/computer-programming/programming)
 
